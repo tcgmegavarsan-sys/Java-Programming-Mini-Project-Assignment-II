@@ -1,0 +1,11 @@
+# Node modules & generator scripts
+node_modules/
+package.json
+package-lock.json
+generate_report*.js
+build_official_submission.js
+test*.txt
+test*.js
+test*.html
+test*.pdf
+execution_output.txt
